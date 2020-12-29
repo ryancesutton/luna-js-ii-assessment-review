@@ -11,7 +11,7 @@
 
 
 
-//TODO: Write a function 'isPositive' that takes in a number and returns true or false based on whether the input is positive.
+//TODO: Write a function named 'isPositive' that takes in a number and returns true or false based on whether the input is positive.
 
 //isPositive(2) // true
 // isPositive(-4) // false
@@ -26,7 +26,6 @@
 // getLowestNumber(1, 3, 2)           // 1
 // geLowestNumber(0, 1, "2")         // 0
 //getLowestNumber(1, 2, 'x')         // false
-
 
 
 
